@@ -15,7 +15,7 @@
  
  
  ### Tasks
-* Perform exploratory analysis and provide insights about the performance of the promos .
-* Do you observe any price sensitivity in the data ?
-* How would you measure the lift observed due a promo type ? Feel free to think of different methods or models to calculate lift .  You can make any valid assumptions and also create new features based on the data provided . 
+* Performing exploratory analysis and providing insights about the performance of the promos.
+* Checking for price sensitivity during promotions.
+* Calculating sales lift on each promotion types.
 

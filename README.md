@@ -1,6 +1,6 @@
 ## Data analysis on retail store promotions
 * A Retail company with as chain of stores across US and Canada.
-* You have been given a data set of daily transaction numbers of a certain product
+* Data set of daily transaction numbers of a certain product.
 * For period of  2 years starting from  Feb 2018 to Jan  2020.
 
 ### Data Description
